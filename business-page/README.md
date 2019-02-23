@@ -7,6 +7,7 @@
 2. `Fork` this repository
 3. Edit the file `CNAME` (right on Github) and replace `mrmwebguy.com` with *your domain name*
 4. Modify the `index.html` file and put YOUR domain name
+5. Under `settings` change the name for the repostory (change `https://github.com/mrmccormack/mrmwebguy.com` to your .com name)
 
 
 >TIP
