@@ -1,6 +1,41 @@
-# Hooking up your domain name to Github respository
+# Hooking up your domain name to Github repository
 
-> Instructinos
+> Instructions
+
+## FIRST, Set up Github.com
+1. login to your github.com account
+2. `Fork` this repository
+3. Edit the file `CNAME` (right on Github) and replace `mrmwebguy.com` with *your domain name*
+4. Modify the `index.html` file and put YOUR domain name
+
+
+>TIP
+- you see... you can have folders under your repositories, that can hold anything you want....
+- check out the folder `/business-page` and see a whole Bootstrap website.
+
+
+
+
+## Setting up GOOGLE
+1. Login to https://domains.google.com
+2. Find your domain, and click the `manage` button
+3. Under `dns` add the following changes shown on screen shots below
+4. Wait up to 24 houirs to see if your domain is hooking up to
+
+
+>Note:  You are adding TWO numbers under ONE `@` settings, look at picture carefull!
+
+![](https://raw.githubusercontent.com/mrmccormack/mrmwebguy.com/master/img/githubsetup1.png)
+
+
+
+![](https://raw.githubusercontent.com/mrmccormack/mrmwebguy.com/master/img/githubsetup1.png)
+
+
+
+
+----
+
 
 
 
